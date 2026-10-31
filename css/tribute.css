@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+header{
+    padding: 10px;
+    margin: 50px;
+}
+header h1{
+    font-size: 50px;
+    text-decoration: underline;
+    color: brown;
+}
+
+.sec-one{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-top: 80px;
+
+}
+.img{
+    height:400px;
+    width:300px;
+}
+.about-apj{
+    font-size: 40px;
+    text-decoration: underline brown;
+}
+
+.apj-line{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+.sec-two{
+    padding: 40px;
+}
+.sec-two h2{
+    font-size: 40px;
+    margin-top: 20px;
+    text-decoration: underline brown;
+}
+
+.sec-two p{
+    font-size: 20px;
+}
+
+
+footer{
+    margin-top: 70px;
+    background-color: brown;
+    height: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+footer p{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;  
+}
